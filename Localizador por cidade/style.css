@@ -1,0 +1,13 @@
+.logo {
+    padding: 70px;
+  }
+.cidade{
+width: 528px;
+height: 48px;
+left: 456px;
+top: 393px;
+background: rgba(255, 255, 255, 0.05);
+border: 1.3px solid #E9ECF0;
+box-sizing: border-box;
+border-radius: 8px;
+}
